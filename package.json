@@ -1,0 +1,28 @@
+{
+  "name": "acsmti-vue",
+  "version": "0.1.0",
+  "description": "A collection for pragmatic programmers",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/andrecsmenezes/acsmti-vue.git"
+  },
+  "keywords": [
+    "Vue",
+    "Pragmatic Programming",
+    "PSR",
+    "Typescript"
+  ],
+  "author": "André Cesar Souza de Menezes <andre.cs.menezes@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrecsmenezes/acsmti-vue/issues"
+  },
+  "homepage": "https://github.com/andrecsmenezes/acsmti-vue#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
